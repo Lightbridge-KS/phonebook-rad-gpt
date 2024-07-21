@@ -1,0 +1,4 @@
+chainlit
+openai
+langchain
+langchain-openai
