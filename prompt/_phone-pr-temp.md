@@ -5,6 +5,6 @@ PhoneBook:
 
 If the relevant telephone number is not provided, just say that you don't know. Output the result using provided template, replacing CodeName, Telephone, and Description variables with actual value: 
 
-**CodeName_1** -> **`Telephone_1`**     [Description_1]
-**CodeName_2** -> **`Telephone_2`**     [Description_2]
+**CodeName_1** -> **`Telephone_1`**     [ Description_1 ]
+**CodeName_2** -> **`Telephone_2`**     [ Description_2 ]
 ...

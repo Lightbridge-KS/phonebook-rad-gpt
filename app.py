@@ -37,8 +37,13 @@ async def set_starters():
             icon="/public/lightbulb.svg",
             ),
         cl.Starter(
-            label="Example: CTER",
+            label="Ex: CTER",
             message="CTER",
+            icon="/public/pen.svg",
+        ),
+        cl.Starter(
+            label="Ex: 7SW",
+            message="7SW",
             icon="/public/pen.svg",
         ),
         ]
